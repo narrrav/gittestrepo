@@ -1,4 +1,3 @@
-this is ac
-ac c1
+this is a.txt
  this is change by kiran
    changes done by Ravi
